@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+　<meta charset=”UTF-8″>
+　<meta http-equiv=”X-UA-Compatible” content=”IE=edge”>
+<title>作品通報bot(nia)</title>
+</head>
+<body>
+<h1>使い方</h1>
+<p>このbotaiはプロゼミ上の作品を自動的に通報します。以下のツールメールにと作品urlを記述して送信してください。(マクロの為多少時間がかかる場合があります。一度に大量の作品urlを送信しないでください。サーバー上限は決まっています。</p>
+　<h1>仕組み</h1>
+<p>別発信元で既に作成してあるアカウントをPythonで叩いて通報します。(通報をしても削除されない場合があります。また、使用は自己責任でお願いします。)</p>
+
+   <h1>記述方法</h1>
+　<p>例えば通報する作品があったときは、「tuuhou:(作品リンク)」になります。()はつけてください。</p>
+<h1>注意</h1>
+   <p>一度に大量に送信しないでください。捨てメアドでも動作します。</p>
+<h1>bot送信メアド</h1>
+   <h2>ツール起動メール</h2>
+<a href="nia_botai@​aol.com">nia_botai@aol.com</a>　<p>見にくくなってますが、niaの後は_が付いています。ご注意ください。</p>
+<h2>サポートメール、お問い合わせ</h2>
+<a href="annkokubutuusitu@gmail.com">annkokubutuusitu@gamil.com</a>
+<h1>ツール作成者</h1>
+   <p>暗黒物質</p>
+
+ 
+
+   <h1>おまけ機能</h1>
+   <p>おまけで会話機能をつけました。コマンドは/helpで確認できます。会話因子はリアチャにしました。(簡易的でスクリプトが組み込みやすいから)
+  <a href="https://reachat.org/?06ef479244928e66b4292ea649dfda2f,300,20,1">https://reachat.org/?06ef479244928e66b4292ea649dfda2f,300,20,1</a> </p>
+<p>タイムtoken式で会話ができます。tokenが発行して欲しかったら自分(暗黒物質)に言ってください。(プロチャで良いです。)</p>
+</body>
+</html>
